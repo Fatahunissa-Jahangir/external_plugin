@@ -1,0 +1,12 @@
+[
+    {
+      "class": "TempusPlugin"
+    },
+    {
+      "class": "IngenicoPlugin"
+    },
+    {
+      "class": "UPIPlugin"
+    }
+    
+]
